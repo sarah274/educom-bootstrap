@@ -1,0 +1,12 @@
+
+
+body {
+    padding: 20px
+}
+
+.gray {
+    background-color: #AAA;
+    text-align: center;
+    padding: 40px;
+    border: 1px solid #FFF;
+}

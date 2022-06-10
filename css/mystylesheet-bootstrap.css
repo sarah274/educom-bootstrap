@@ -11,11 +11,12 @@ body {
     border: 1px solid #FFF;
 }
 
-.square {
-    height: 175px;
+.image1 {
+    max-width: 300px;
+    max-height: 300px;
 }
 
-.no-margin {
-  margin-bottom: 0px !important;
-  border-top: none;
+.image2 {
+    max-width: 300px;
+    max-height: 300px;
 }
